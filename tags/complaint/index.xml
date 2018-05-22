@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Complaint on bananafish</title>
+    <link>https://www.le-bananafish.github.io/sebastianlau/tags/complaint/</link>
+    <description>Recent content in Complaint on bananafish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 May 2018 21:37:43 +1200</lastBuildDate>
+    
+	<atom:link href="https://www.le-bananafish.github.io/sebastianlau/tags/complaint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Site Who This</title>
+      <link>https://www.le-bananafish.github.io/sebastianlau/posts/new-site-who-this/</link>
+      <pubDate>Tue, 22 May 2018 21:37:43 +1200</pubDate>
+      
+      <guid>https://www.le-bananafish.github.io/sebastianlau/posts/new-site-who-this/</guid>
+      <description>Secret Hidden Level 1 Header This is my first post. Enjoy!
+Part 1: Joke&amp;rsquo;s on you Joke&amp;rsquo;s on you, this isn&amp;rsquo;t my first rodeo with static site generators and as an experienced beginner level experimenter, I have a few complaints about static site generators.
+I mean, why not have your first post be a complaint?
+First, some history.
+So, at one point in time at some point in time last year (2017) or so, I read somewhere that it was a great idea to showcase yourself by having a personal website as like a part-CV part experience point of reference.</description>
+    </item>
+    
+  </channel>
+</rss>
