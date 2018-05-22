@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bananafish</title>
-    <link>https://www.le-bananafish.github.io/sebastianlau/</link>
+    <link>https://le-bananafish.github.io/sebastianlau/</link>
     <description>Recent content on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 May 2018 21:37:43 +1200</lastBuildDate>
     
-	<atom:link href="https://www.le-bananafish.github.io/sebastianlau/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://le-bananafish.github.io/sebastianlau/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Site Who This</title>
-      <link>https://www.le-bananafish.github.io/sebastianlau/posts/new-site-who-this/</link>
+      <link>https://le-bananafish.github.io/sebastianlau/posts/new-site-who-this/</link>
       <pubDate>Tue, 22 May 2018 21:37:43 +1200</pubDate>
       
-      <guid>https://www.le-bananafish.github.io/sebastianlau/posts/new-site-who-this/</guid>
+      <guid>https://le-bananafish.github.io/sebastianlau/posts/new-site-who-this/</guid>
       <description>Secret Hidden Level 1 Header This is my first post. Enjoy!
 Part 1: Joke&amp;rsquo;s on you Joke&amp;rsquo;s on you, this isn&amp;rsquo;t my first rodeo with static site generators and as an experienced beginner level experimenter, I have a few complaints about static site generators.
 I mean, why not have your first post be a complaint?
