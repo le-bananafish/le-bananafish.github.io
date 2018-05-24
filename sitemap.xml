@@ -13,18 +13,17 @@
   </url>
   
   <url>
+    <loc>https://le-bananafish.github.io/posts/</loc>
+    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://le-bananafish.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://le-bananafish.github.io/tags/complaint/</loc>
-    <lastmod>2018-05-22T21:37:43+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://le-bananafish.github.io/posts/</loc>
     <lastmod>2018-05-22T21:37:43+12:00</lastmod>
     <priority>0</priority>
   </url>
