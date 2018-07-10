@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bananafish</title>
-    <link>https://le-bananafish.github.io/</link>
-    <description>Recent content on bananafish</description>
+    <title>General on bananafish</title>
+    <link>https://le-bananafish.github.io/tags/general/</link>
+    <description>Recent content in General on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jul 2018 23:32:03 +1200</lastBuildDate>
     
-	<atom:link href="https://le-bananafish.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://le-bananafish.github.io/tags/general/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,19 +18,6 @@
       
       <guid>https://le-bananafish.github.io/posts/why-i-use-fountain-pens/</guid>
       <description>The rationale behind the use of antiquated writing instruments In an age of instantaneous interconnected digitial communication and storage, one might wonder why another has a desire to use antiquated communication methods such as the pen and paper, especially a very antiquated breed of pen known only in the fringes of society and cautiously mentioned in everyday society as the fountain pen. If one looks at those proclaiming the dangers of technology and the benefits of digital detox, one will find a possible answer to the question at hand.</description>
-    </item>
-    
-    <item>
-      <title>New Site Who This</title>
-      <link>https://le-bananafish.github.io/posts/new-site-who-this/</link>
-      <pubDate>Tue, 22 May 2018 21:37:43 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/posts/new-site-who-this/</guid>
-      <description>Secret Hidden Level 1 Header This is my first post. Enjoy!
-Part 1: Joke&amp;rsquo;s on you Joke&amp;rsquo;s on you, this isn&amp;rsquo;t my first rodeo with static site generators and as an experienced beginner level experimenter, I have a few complaints about static site generators.
-I mean, why not have your first post be a complaint?
-First, some history.
-So, at one point in time at some point in time last year (2017) or so, I read somewhere that it was a great idea to showcase yourself by having a personal website as like a part-CV part experience point of reference.</description>
     </item>
     
   </channel>
