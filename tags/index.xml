@@ -6,7 +6,7 @@
     <description>Recent content in Tags on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 May 2018 21:37:43 +1200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Aug 2018 21:50:30 +1200</lastBuildDate>
     
 	<atom:link href="https://le-bananafish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Complaint</title>
       <link>https://le-bananafish.github.io/tags/complaint/</link>
-      <pubDate>Tue, 22 May 2018 21:37:43 +1200</pubDate>
+      <pubDate>Wed, 08 Aug 2018 21:50:30 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/complaint/</guid>
       <description></description>
@@ -44,6 +44,15 @@
       <pubDate>Wed, 04 Jul 2018 23:32:03 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thought</title>
+      <link>https://le-bananafish.github.io/tags/thought/</link>
+      <pubDate>Wed, 08 Aug 2018 21:50:30 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/thought/</guid>
       <description></description>
     </item>
     
