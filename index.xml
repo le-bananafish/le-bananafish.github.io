@@ -6,10 +6,19 @@
     <description>Recent content on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Aug 2018 21:50:30 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 28 Aug 2018 17:13:05 +1200</lastBuildDate>
     
 	<atom:link href="https://le-bananafish.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Rust</title>
+      <link>https://le-bananafish.github.io/posts/learning-rust/</link>
+      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/posts/learning-rust/</guid>
+      <description>Fighting the borrow checker Anyone who has tried learning the Rust programming language will be familiar with the phrase &amp;ldquo;fighting the borrow checker&amp;rdquo;. It is the formative event in the Rust programmer&amp;rsquo;s life. Trying to figure out why the compiler won&amp;rsquo;t let you compile a piece of code. Those who use interpreted languages like Python and Ruby will not understand the pain of your code having to first succesfully compile before being able to run it.</description>
+    </item>
     
     <item>
       <title>Modernity Has Failed Us</title>
