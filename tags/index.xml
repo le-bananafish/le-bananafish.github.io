@@ -6,7 +6,7 @@
     <description>Recent content in Tags on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Aug 2018 21:50:30 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Sep 2018 23:14:38 +1200</lastBuildDate>
     
 	<atom:link href="https://le-bananafish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Complaint</title>
       <link>https://le-bananafish.github.io/tags/complaint/</link>
-      <pubDate>Wed, 08 Aug 2018 21:50:30 +1200</pubDate>
+      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/complaint/</guid>
       <description></description>
@@ -32,9 +32,27 @@
     <item>
       <title>General</title>
       <link>https://le-bananafish.github.io/tags/general/</link>
-      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
+      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Idea</title>
+      <link>https://le-bananafish.github.io/tags/idea/</link>
+      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/idea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://le-bananafish.github.io/tags/life/</link>
+      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/life/</guid>
       <description></description>
     </item>
     
@@ -48,6 +66,15 @@
     </item>
     
     <item>
+      <title>Music</title>
+      <link>https://le-bananafish.github.io/tags/music/</link>
+      <pubDate>Wed, 08 Aug 2018 21:50:30 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Programming</title>
       <link>https://le-bananafish.github.io/tags/programming/</link>
       <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
@@ -57,20 +84,29 @@
     </item>
     
     <item>
-      <title>Random</title>
-      <link>https://le-bananafish.github.io/tags/random/</link>
-      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/random/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rant</title>
       <link>https://le-bananafish.github.io/tags/rant/</link>
       <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/rant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://le-bananafish.github.io/tags/review/</link>
+      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://le-bananafish.github.io/tags/rust/</link>
+      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/rust/</guid>
       <description></description>
     </item>
     
@@ -86,18 +122,36 @@
     <item>
       <title>Story</title>
       <link>https://le-bananafish.github.io/tags/story/</link>
-      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
+      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/story/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Technology</title>
+      <link>https://le-bananafish.github.io/tags/technology/</link>
+      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thought</title>
       <link>https://le-bananafish.github.io/tags/thought/</link>
-      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
+      <pubDate>Wed, 08 Aug 2018 21:50:30 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/thought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://le-bananafish.github.io/tags/writing/</link>
+      <pubDate>Wed, 04 Jul 2018 23:32:03 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/writing/</guid>
       <description></description>
     </item>
     

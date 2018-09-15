@@ -6,10 +6,21 @@
     <description>Recent content in Story on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Aug 2018 17:13:05 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Sep 2018 23:14:38 +1200</lastBuildDate>
     
 	<atom:link href="https://le-bananafish.github.io/tags/story/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Te Wiki O Te Reo Māori</title>
+      <link>https://le-bananafish.github.io/posts/te-wiki-o-te-reo-maori/</link>
+      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/posts/te-wiki-o-te-reo-maori/</guid>
+      <description>Māori Language Week It&amp;rsquo;s Māori language week and since people are arguing over the language and it&amp;rsquo;s in the news again, I thought I&amp;rsquo;d weigh in on the debate if you can even call it that.
+First, here&amp;rsquo;s a list of reasons people give not to learn Māori:
+ It&amp;rsquo;s a dead dying language It&amp;rsquo;s a dead dying culture (Some idea of superiority) You get the idea  Secondly, I would like to say I&amp;rsquo;m a linguist, or to be more exact, I&amp;rsquo;m studying linguistics.</description>
+    </item>
     
     <item>
       <title>Learning Rust</title>
