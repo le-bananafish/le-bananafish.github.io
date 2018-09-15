@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://le-bananafish.github.io/posts/te-wiki-o-te-reo-maori/</loc>
+    <lastmod>2018-09-15T23:14:38+12:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://le-bananafish.github.io/posts/learning-rust/</loc>
     <lastmod>2018-08-28T17:13:05+12:00</lastmod>
   </url>
@@ -56,8 +61,32 @@
   </url>
   
   <url>
+    <loc>https://le-bananafish.github.io/tags/linguistics/</loc>
+    <lastmod>2018-09-15T23:14:38+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://le-bananafish.github.io/tags/programming/</loc>
     <lastmod>2018-08-28T17:13:05+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://le-bananafish.github.io/tags/random/</loc>
+    <lastmod>2018-09-15T23:14:38+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://le-bananafish.github.io/tags/rant/</loc>
+    <lastmod>2018-09-15T23:14:38+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://le-bananafish.github.io/tags/society/</loc>
+    <lastmod>2018-09-15T23:14:38+12:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,13 +104,13 @@
   
   <url>
     <loc>https://le-bananafish.github.io/tags/thought/</loc>
-    <lastmod>2018-08-08T21:50:30+12:00</lastmod>
+    <lastmod>2018-09-15T23:14:38+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://le-bananafish.github.io/</loc>
-    <lastmod>2018-08-28T17:13:05+12:00</lastmod>
+    <lastmod>2018-09-15T23:14:38+12:00</lastmod>
     <priority>0</priority>
   </url>
   
