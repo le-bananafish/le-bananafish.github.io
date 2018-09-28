@@ -6,7 +6,7 @@
     <description>Recent content in Tags on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Sep 2018 23:14:38 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:47:32 +1200</lastBuildDate>
     
 	<atom:link href="https://le-bananafish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,18 @@
     <item>
       <title>Complaint</title>
       <link>https://le-bananafish.github.io/tags/complaint/</link>
-      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
+      <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/complaint/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fountainpens</title>
-      <link>https://le-bananafish.github.io/tags/fountainpens/</link>
+      <title>Fountain Pens</title>
+      <link>https://le-bananafish.github.io/tags/fountain-pens/</link>
       <pubDate>Wed, 04 Jul 2018 23:32:03 +1200</pubDate>
       
-      <guid>https://le-bananafish.github.io/tags/fountainpens/</guid>
+      <guid>https://le-bananafish.github.io/tags/fountain-pens/</guid>
       <description></description>
     </item>
     
@@ -68,7 +68,7 @@
     <item>
       <title>Rant</title>
       <link>https://le-bananafish.github.io/tags/rant/</link>
-      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
+      <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/rant/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Review</title>
       <link>https://le-bananafish.github.io/tags/review/</link>
-      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
+      <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/review/</guid>
       <description></description>
@@ -93,11 +93,11 @@
     </item>
     
     <item>
-      <title>Showerthought</title>
-      <link>https://le-bananafish.github.io/tags/showerthought/</link>
+      <title>Shower Thought</title>
+      <link>https://le-bananafish.github.io/tags/shower-thought/</link>
       <pubDate>Wed, 08 Aug 2018 21:50:30 +1200</pubDate>
       
-      <guid>https://le-bananafish.github.io/tags/showerthought/</guid>
+      <guid>https://le-bananafish.github.io/tags/shower-thought/</guid>
       <description></description>
     </item>
     
@@ -131,9 +131,27 @@
     <item>
       <title>Technology</title>
       <link>https://le-bananafish.github.io/tags/technology/</link>
-      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
+      <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Experience</title>
+      <link>https://le-bananafish.github.io/tags/user-experience/</link>
+      <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/user-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Interface</title>
+      <link>https://le-bananafish.github.io/tags/user-interface/</link>
+      <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/user-interface/</guid>
       <description></description>
     </item>
     
