@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing on bananafish</title>
+    <title>writing on bananafish</title>
     <link>https://le-bananafish.github.io/tags/writing/</link>
-    <description>Recent content in Writing on bananafish</description>
+    <description>Recent content in writing on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 23:32:03 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2019 20:58:16 +1300</lastBuildDate>
     
 	<atom:link href="https://le-bananafish.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Horizons</title>
+      <link>https://le-bananafish.github.io/posts/new-horizons/</link>
+      <pubDate>Thu, 12 Dec 2019 20:58:16 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/posts/new-horizons/</guid>
+      <description>New Horizons New Horizons is a multi-era worldbuilding project extrapolated from pertinent events in the current state of world affairs. It encompasses multiple genres and takes inspiration from notable books, media and video games like Blade Runner, Ghost in the Shell, Star Wars, Star Trek and Destiny.
+New Horizons starts off with the events of the Third World War, the culmination of two centuries of political irresolution. It resulted in a drastic shift in global power, immense loss of life and massive ecological disaster.</description>
+    </item>
     
     <item>
       <title>Why I Use Fountain Pens</title>

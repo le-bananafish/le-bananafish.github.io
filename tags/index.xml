@@ -6,13 +6,58 @@
     <description>Recent content in Tags on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:47:32 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2019 20:58:16 +1300</lastBuildDate>
     
 	<atom:link href="https://le-bananafish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Complaint</title>
+      <title>creative-work</title>
+      <link>https://le-bananafish.github.io/tags/creative-work/</link>
+      <pubDate>Thu, 12 Dec 2019 20:58:16 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/creative-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new-horizons</title>
+      <link>https://le-bananafish.github.io/tags/new-horizons/</link>
+      <pubDate>Thu, 12 Dec 2019 20:58:16 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/new-horizons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://le-bananafish.github.io/tags/project/</link>
+      <pubDate>Thu, 12 Dec 2019 20:58:16 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://le-bananafish.github.io/tags/story/</link>
+      <pubDate>Thu, 12 Dec 2019 20:58:16 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://le-bananafish.github.io/tags/writing/</link>
+      <pubDate>Thu, 12 Dec 2019 20:58:16 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complaint</title>
       <link>https://le-bananafish.github.io/tags/complaint/</link>
       <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
       
@@ -21,52 +66,7 @@
     </item>
     
     <item>
-      <title>Fountain Pens</title>
-      <link>https://le-bananafish.github.io/tags/fountain-pens/</link>
-      <pubDate>Wed, 04 Jul 2018 23:32:03 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/fountain-pens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>General</title>
-      <link>https://le-bananafish.github.io/tags/general/</link>
-      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/general/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linguistics</title>
-      <link>https://le-bananafish.github.io/tags/linguistics/</link>
-      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/linguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://le-bananafish.github.io/tags/music/</link>
-      <pubDate>Wed, 08 Aug 2018 21:50:30 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://le-bananafish.github.io/tags/programming/</link>
-      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rant</title>
+      <title>rant</title>
       <link>https://le-bananafish.github.io/tags/rant/</link>
       <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
       
@@ -75,7 +75,7 @@
     </item>
     
     <item>
-      <title>Review</title>
+      <title>review</title>
       <link>https://le-bananafish.github.io/tags/review/</link>
       <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
       
@@ -84,52 +84,7 @@
     </item>
     
     <item>
-      <title>Rust</title>
-      <link>https://le-bananafish.github.io/tags/rust/</link>
-      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/rust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shower Thought</title>
-      <link>https://le-bananafish.github.io/tags/shower-thought/</link>
-      <pubDate>Wed, 08 Aug 2018 21:50:30 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/shower-thought/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Society</title>
-      <link>https://le-bananafish.github.io/tags/society/</link>
-      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/society/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stationery</title>
-      <link>https://le-bananafish.github.io/tags/stationery/</link>
-      <pubDate>Wed, 04 Jul 2018 23:32:03 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/stationery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Story</title>
-      <link>https://le-bananafish.github.io/tags/story/</link>
-      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/story/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
+      <title>technology</title>
       <link>https://le-bananafish.github.io/tags/technology/</link>
       <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
       
@@ -138,7 +93,7 @@
     </item>
     
     <item>
-      <title>User Experience</title>
+      <title>user-experience</title>
       <link>https://le-bananafish.github.io/tags/user-experience/</link>
       <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
       
@@ -147,7 +102,7 @@
     </item>
     
     <item>
-      <title>User Interface</title>
+      <title>user-interface</title>
       <link>https://le-bananafish.github.io/tags/user-interface/</link>
       <pubDate>Thu, 27 Sep 2018 00:47:32 +1200</pubDate>
       
@@ -156,11 +111,83 @@
     </item>
     
     <item>
-      <title>Writing</title>
-      <link>https://le-bananafish.github.io/tags/writing/</link>
+      <title>general</title>
+      <link>https://le-bananafish.github.io/tags/general/</link>
+      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistics</title>
+      <link>https://le-bananafish.github.io/tags/linguistics/</link>
+      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>society</title>
+      <link>https://le-bananafish.github.io/tags/society/</link>
+      <pubDate>Sat, 15 Sep 2018 23:14:38 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://le-bananafish.github.io/tags/programming/</link>
+      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>https://le-bananafish.github.io/tags/rust/</link>
+      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://le-bananafish.github.io/tags/music/</link>
+      <pubDate>Wed, 08 Aug 2018 21:50:30 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shower-thought</title>
+      <link>https://le-bananafish.github.io/tags/shower-thought/</link>
+      <pubDate>Wed, 08 Aug 2018 21:50:30 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/shower-thought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fountain-pens</title>
+      <link>https://le-bananafish.github.io/tags/fountain-pens/</link>
       <pubDate>Wed, 04 Jul 2018 23:32:03 +1200</pubDate>
       
-      <guid>https://le-bananafish.github.io/tags/writing/</guid>
+      <guid>https://le-bananafish.github.io/tags/fountain-pens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stationery</title>
+      <link>https://le-bananafish.github.io/tags/stationery/</link>
+      <pubDate>Wed, 04 Jul 2018 23:32:03 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/stationery/</guid>
       <description></description>
     </item>
     
