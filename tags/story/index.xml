@@ -33,15 +33,6 @@ New Horizons starts off with the events of the Third World War, the culmination 
     </item>
     
     <item>
-      <title>Learning Rust</title>
-      <link>https://le-bananafish.github.io/posts/learning-rust/</link>
-      <pubDate>Tue, 28 Aug 2018 17:13:05 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/posts/learning-rust/</guid>
-      <description>Fighting the borrow checker Anyone who has tried learning the Rust programming language will be familiar with the phrase &amp;ldquo;fighting the borrow checker&amp;rdquo;. It is the formative event in the Rust programmer&amp;rsquo;s life. Trying to figure out why the compiler won&amp;rsquo;t let you compile a piece of code. Those who use interpreted languages like Python and Ruby will not understand the pain of your code having to first successfully compile before being able to run it.</description>
-    </item>
-    
-    <item>
       <title>Why I Use Fountain Pens</title>
       <link>https://le-bananafish.github.io/posts/why-i-use-fountain-pens/</link>
       <pubDate>Wed, 04 Jul 2018 23:32:03 +1200</pubDate>
