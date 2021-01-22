@@ -20,12 +20,6 @@
   </url>
   
   <url>
-    <loc>https://le-bananafish.github.io/tags/complaint/</loc>
-    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://le-bananafish.github.io/tags/general/</loc>
     <lastmod>2021-01-22T13:11:46+13:00</lastmod>
     <priority>0</priority>
@@ -39,12 +33,6 @@
   
   <url>
     <loc>https://le-bananafish.github.io/tags/projects/</loc>
-    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://le-bananafish.github.io/tags/shower-thought/</loc>
     <lastmod>2021-01-22T13:11:46+13:00</lastmod>
     <priority>0</priority>
   </url>
@@ -83,6 +71,12 @@
   </url>
   
   <url>
+    <loc>https://le-bananafish.github.io/tags/stories/</loc>
+    <lastmod>2019-12-12T23:06:40+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://le-bananafish.github.io/tags/story/</loc>
     <lastmod>2019-12-12T23:06:40+13:00</lastmod>
     <priority>0</priority>
@@ -94,14 +88,14 @@
   </url>
   
   <url>
-    <loc>https://le-bananafish.github.io/tags/creative-work/</loc>
-    <lastmod>2019-12-12T20:58:16+13:00</lastmod>
-    <priority>0</priority>
+    <loc>https://le-bananafish.github.io/posts/new-site-who-this/</loc>
+    <lastmod>2018-05-22T21:37:43+12:00</lastmod>
   </url>
   
   <url>
-    <loc>https://le-bananafish.github.io/posts/new-site-who-this/</loc>
+    <loc>https://le-bananafish.github.io/tags/complaint/</loc>
     <lastmod>2018-05-22T21:37:43+12:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
