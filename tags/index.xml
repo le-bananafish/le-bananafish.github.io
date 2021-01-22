@@ -6,15 +6,24 @@
     <description>Recent content in Tags on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 00:30:30 +1300</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 13:11:46 +1300</lastBuildDate>
     
 	<atom:link href="https://le-bananafish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>complaint</title>
+      <link>https://le-bananafish.github.io/tags/complaint/</link>
+      <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/complaint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>general</title>
       <link>https://le-bananafish.github.io/tags/general/</link>
-      <pubDate>Sun, 17 Jan 2021 00:30:30 +1300</pubDate>
+      <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/general/</guid>
       <description></description>
@@ -23,9 +32,54 @@
     <item>
       <title>new-horizons</title>
       <link>https://le-bananafish.github.io/tags/new-horizons/</link>
-      <pubDate>Thu, 12 Dec 2019 23:06:40 +1300</pubDate>
+      <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/new-horizons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://le-bananafish.github.io/tags/projects/</link>
+      <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shower-thought</title>
+      <link>https://le-bananafish.github.io/tags/shower-thought/</link>
+      <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/shower-thought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>society</title>
+      <link>https://le-bananafish.github.io/tags/society/</link>
+      <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://le-bananafish.github.io/tags/writing/</link>
+      <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yellow-indium</title>
+      <link>https://le-bananafish.github.io/tags/yellow-indium/</link>
+      <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/yellow-indium/</guid>
       <description></description>
     </item>
     
@@ -44,33 +98,6 @@
       <pubDate>Thu, 12 Dec 2019 20:58:16 +1300</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/creative-work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>project</title>
-      <link>https://le-bananafish.github.io/tags/project/</link>
-      <pubDate>Thu, 12 Dec 2019 20:58:16 +1300</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writing</title>
-      <link>https://le-bananafish.github.io/tags/writing/</link>
-      <pubDate>Thu, 12 Dec 2019 20:58:16 +1300</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/writing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>complaint</title>
-      <link>https://le-bananafish.github.io/tags/complaint/</link>
-      <pubDate>Tue, 22 May 2018 21:37:43 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/complaint/</guid>
       <description></description>
     </item>
     

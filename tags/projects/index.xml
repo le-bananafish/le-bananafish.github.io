@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on bananafish</title>
-    <link>https://le-bananafish.github.io/posts/</link>
-    <description>Recent content in Posts on bananafish</description>
+    <title>projects on bananafish</title>
+    <link>https://le-bananafish.github.io/tags/projects/</link>
+    <description>Recent content in projects on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 13:11:46 +1300</lastBuildDate>
     
-	<atom:link href="https://le-bananafish.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://le-bananafish.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://le-bananafish.github.io/posts/indecision-and-imitation/</guid>
       <description>Creativity + a small announcement We are often told that &amp;ldquo;imitation is the best form of flattery&amp;rdquo; as a commandment to instead seek originality. However, our greatest works do not exist in a vacuum, they revisit and reinterpret existing ideas in subtle ways and inspire thought. Of course, counterfeits, piracy and copyright infringement are huge issues.
 Voltaire (once) said, &amp;ldquo;Ainsi, presque tout est imitation&amp;hellip; Les esprits les plus originaux empruntent les uns des autres,&amp;rdquo; or artistically rendered:</description>
-    </item>
-    
-    <item>
-      <title>A New Year 2021</title>
-      <link>https://le-bananafish.github.io/posts/a-new-year-2021/</link>
-      <pubDate>Sun, 17 Jan 2021 00:30:30 +1300</pubDate>
-      
-      <guid>https://le-bananafish.github.io/posts/a-new-year-2021/</guid>
-      <description>Jan 17, 2021 Blah, blah, blah, 2020 was a terrible year. Done.
-In the never-ending spirit tradition of setting a new year&amp;rsquo;s resolution that we don&amp;rsquo;t keep to, I thought I&amp;rsquo;d set a resolution given that we&amp;rsquo;re still in the opening days of the new year, i.e. it&amp;rsquo;s still January. I&amp;rsquo;ve still got time to start&amp;hellip;
- I promise to write at least one post per week, or at the bare minimum, once a month.</description>
     </item>
     
     <item>
@@ -51,19 +40,6 @@ The city was filled endlessly with these streets. Wide-built, marked by a row of
       <guid>https://le-bananafish.github.io/posts/new-horizons/</guid>
       <description>New Horizons New Horizons is a multi-era worldbuilding project extrapolated from pertinent events in the current state of world affairs. It encompasses multiple genres and takes inspiration from notable books, media and video games like Blade Runner, Ghost in the Shell, Star Wars, Star Trek and Destiny.
 New Horizons starts off with the events of the Third World War, the culmination of two centuries of political irresolution. It resulted in a drastic shift in global power, immense loss of life and massive ecological disaster.</description>
-    </item>
-    
-    <item>
-      <title>New Site Who This</title>
-      <link>https://le-bananafish.github.io/posts/new-site-who-this/</link>
-      <pubDate>Tue, 22 May 2018 21:37:43 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/posts/new-site-who-this/</guid>
-      <description>Secret Hidden Level 1 Header This is my first post. Enjoy!
-Part 1: Joke&amp;rsquo;s on you Joke&amp;rsquo;s on you, this isn&amp;rsquo;t my first rodeo with static site generators and as an experienced beginner level experimenter, I have a few complaints about static site generators.
-I mean, why not have your first post be a complaint?
-First, some history.
-So, at one point in time at some point in time last year (2017) or so, I read somewhere that it was a great idea to showcase yourself by having a personal website as like a part-CV part experience point of reference.</description>
     </item>
     
   </channel>
