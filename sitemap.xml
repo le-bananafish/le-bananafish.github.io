@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://le-bananafish.github.io/</loc>
+    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://le-bananafish.github.io/tags/general/</loc>
+    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
+  </url>
   
   <url>
     <loc>https://le-bananafish.github.io/posts/indecision-and-imitation/</loc>
@@ -8,51 +18,33 @@
   </url>
   
   <url>
-    <loc>https://le-bananafish.github.io/tags/</loc>
-    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://le-bananafish.github.io/</loc>
-    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://le-bananafish.github.io/tags/general/</loc>
-    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://le-bananafish.github.io/tags/new-horizons/</loc>
     <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://le-bananafish.github.io/tags/projects/</loc>
     <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://le-bananafish.github.io/tags/society/</loc>
     <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://le-bananafish.github.io/tags/</loc>
+    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
   </url>
   
   <url>
     <loc>https://le-bananafish.github.io/tags/writing/</loc>
     <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://le-bananafish.github.io/tags/yellow-indium/</loc>
     <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -73,13 +65,11 @@
   <url>
     <loc>https://le-bananafish.github.io/tags/stories/</loc>
     <lastmod>2019-12-12T23:06:40+13:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://le-bananafish.github.io/tags/story/</loc>
     <lastmod>2019-12-12T23:06:40+13:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -88,14 +78,13 @@
   </url>
   
   <url>
-    <loc>https://le-bananafish.github.io/posts/new-site-who-this/</loc>
+    <loc>https://le-bananafish.github.io/tags/complaint/</loc>
     <lastmod>2018-05-22T21:37:43+12:00</lastmod>
   </url>
   
   <url>
-    <loc>https://le-bananafish.github.io/tags/complaint/</loc>
+    <loc>https://le-bananafish.github.io/posts/new-site-who-this/</loc>
     <lastmod>2018-05-22T21:37:43+12:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -110,7 +99,6 @@
   
   <url>
     <loc>https://le-bananafish.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

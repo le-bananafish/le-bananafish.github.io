@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bananafish</title>
@@ -6,11 +6,7 @@
     <description>Recent content on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2021 13:11:46 +1300</lastBuildDate>
-    
-	<atom:link href="https://le-bananafish.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 22 Jan 2021 13:11:46 +1300</lastBuildDate><atom:link href="https://le-bananafish.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Indecision and Imitation</title>
       <link>https://le-bananafish.github.io/posts/indecision-and-imitation/</link>
