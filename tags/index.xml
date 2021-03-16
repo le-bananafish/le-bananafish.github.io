@@ -6,11 +6,20 @@
     <description>Recent content in Tags on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Feb 2021 15:05:10 +1300</lastBuildDate><atom:link href="https://le-bananafish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Mar 2021 12:31:50 +1300</lastBuildDate><atom:link href="https://le-bananafish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>complaint</title>
+      <link>https://le-bananafish.github.io/tags/complaint/</link>
+      <pubDate>Wed, 17 Mar 2021 12:31:50 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/complaint/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>general</title>
       <link>https://le-bananafish.github.io/tags/general/</link>
-      <pubDate>Thu, 11 Feb 2021 15:05:10 +1300</pubDate>
+      <pubDate>Wed, 17 Mar 2021 12:31:50 +1300</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/general/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>rant</title>
       <link>https://le-bananafish.github.io/tags/rant/</link>
-      <pubDate>Thu, 11 Feb 2021 15:05:10 +1300</pubDate>
+      <pubDate>Wed, 17 Mar 2021 12:31:50 +1300</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/rant/</guid>
       <description></description>
@@ -28,9 +37,18 @@
     <item>
       <title>society</title>
       <link>https://le-bananafish.github.io/tags/society/</link>
-      <pubDate>Thu, 11 Feb 2021 15:05:10 +1300</pubDate>
+      <pubDate>Wed, 17 Mar 2021 12:31:50 +1300</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://le-bananafish.github.io/tags/writing/</link>
+      <pubDate>Wed, 17 Mar 2021 12:31:50 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/writing/</guid>
       <description></description>
     </item>
     
@@ -49,15 +67,6 @@
       <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writing</title>
-      <link>https://le-bananafish.github.io/tags/writing/</link>
-      <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/writing/</guid>
       <description></description>
     </item>
     
@@ -85,15 +94,6 @@
       <pubDate>Thu, 12 Dec 2019 23:06:40 +1300</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/story/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>complaint</title>
-      <link>https://le-bananafish.github.io/tags/complaint/</link>
-      <pubDate>Tue, 22 May 2018 21:37:43 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/complaint/</guid>
       <description></description>
     </item>
     
