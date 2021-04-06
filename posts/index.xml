@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate><atom:link href="https://le-bananafish.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Maintenance, 2021</title>
+      <link>https://le-bananafish.github.io/posts/maintenance-2021/</link>
+      <pubDate>Mon, 05 Apr 2021 01:48:57 +1200</pubDate>
+      
+      <guid>https://le-bananafish.github.io/posts/maintenance-2021/</guid>
+      <description>Maintenance and Learning There are so many things that I was gonna write. But I got lazy and I got annoyed at how little I understand how Hugo, the software I use to generate this site, works. I would love to be able to create Table(s) of Contents, or add templates for things like signatures, or dynamically alter the font of the theme, but I don&amp;rsquo;t know how to do any of that.</description>
+    </item>
+    
+    <item>
       <title>I Haven&#39;t Been Writing</title>
       <link>https://le-bananafish.github.io/posts/i-havent-been-writing/</link>
       <pubDate>Wed, 17 Mar 2021 12:31:50 +1300</pubDate>
