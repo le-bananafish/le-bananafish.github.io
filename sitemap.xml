@@ -1,124 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://le-bananafish.github.io/</loc>
-    <lastmod>2021-04-05T01:48:57+12:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-07-30T02:27:39+12:00</lastmod>
+  </url><url>
     <loc>https://le-bananafish.github.io/tags/general/</loc>
-    <lastmod>2021-04-05T01:48:57+12:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-07-30T02:27:39+12:00</lastmod>
+  </url><url>
+    <loc>https://le-bananafish.github.io/posts/july-2021/</loc>
+    <lastmod>2021-07-30T02:27:39+12:00</lastmod>
+  </url><url>
+    <loc>https://le-bananafish.github.io/tags/projects/</loc>
+    <lastmod>2021-07-30T02:27:39+12:00</lastmod>
+  </url><url>
+    <loc>https://le-bananafish.github.io/tags/</loc>
+    <lastmod>2021-07-30T02:27:39+12:00</lastmod>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/maintenance-2021/</loc>
     <lastmod>2021-04-05T01:48:57+12:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/tags/rant-and-ramble/</loc>
     <lastmod>2021-04-05T01:48:57+12:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://le-bananafish.github.io/tags/</loc>
-    <lastmod>2021-04-05T01:48:57+12:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/i-havent-been-writing/</loc>
     <lastmod>2021-03-17T12:31:50+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/tags/society/</loc>
     <lastmod>2021-03-17T12:31:50+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/tags/writing/</loc>
     <lastmod>2021-03-17T12:31:50+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/the-price-of-wisdom/</loc>
     <lastmod>2021-02-11T15:05:10+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/change-of-schedule/</loc>
     <lastmod>2021-01-29T16:08:21+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/indecision-and-imitation/</loc>
     <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://le-bananafish.github.io/tags/new-horizons/</loc>
-    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://le-bananafish.github.io/tags/projects/</loc>
-    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://le-bananafish.github.io/tags/yellow-indium/</loc>
-    <lastmod>2021-01-22T13:11:46+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/a-new-year-2021/</loc>
     <lastmod>2021-01-17T00:30:30+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/social-justice/</loc>
     <lastmod>2019-12-12T23:06:40+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/tags/stories/</loc>
     <lastmod>2019-12-12T23:06:40+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://le-bananafish.github.io/tags/story/</loc>
-    <lastmod>2019-12-12T23:06:40+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/new-horizons/</loc>
     <lastmod>2019-12-12T20:58:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/new-site-who-this/</loc>
     <lastmod>2018-05-22T21:37:43+12:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/about/</loc>
     <lastmod>2018-05-22T16:28:00+12:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/404/</loc>
     <lastmod>2018-05-22T16:21:07+12:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/</loc>
     <lastmod>2018-02-13T12:21:57-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://le-bananafish.github.io/categories/</loc>
+  </url><url>
+    <loc>https://le-bananafish.github.io/tags/project/new-horizons/</loc>
+  </url><url>
+    <loc>https://le-bananafish.github.io/tags/site/update/</loc>
   </url>
-  
 </urlset>
