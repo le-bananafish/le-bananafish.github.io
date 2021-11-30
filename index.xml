@@ -6,7 +6,19 @@
     <description>Recent content on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jul 2021 02:27:39 +1200</lastBuildDate><atom:link href="https://le-bananafish.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 18:55:05 +1300</lastBuildDate><atom:link href="https://le-bananafish.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November 2021</title>
+      <link>https://le-bananafish.github.io/posts/november-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 18:55:05 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/posts/november-2021/</guid>
+      <description>Preamble Isn&amp;rsquo;t ironic when you&amp;rsquo;re busy, you yearn for free time, but when you have lots of free time, you&amp;rsquo;re bored out of your mind?
+No, just me?
+November Update So, you may have noticed that my last post was in July; before that, the last post was in April. I managed to write enough to scrape by for the first four months.
+It&amp;rsquo;s been a long year and I&amp;rsquo;ve forgotten most things.</description>
+    </item>
+    
     <item>
       <title>July 2021</title>
       <link>https://le-bananafish.github.io/posts/july-2021/</link>
@@ -19,11 +31,11 @@ However, what&amp;rsquo;s not valid is using it not to work on my &amp;ldquo;pro
     </item>
     
     <item>
-      <title>Maintenance, 2021</title>
-      <link>https://le-bananafish.github.io/posts/maintenance-2021/</link>
+      <title>April 2021</title>
+      <link>https://le-bananafish.github.io/posts/april-2021/</link>
       <pubDate>Mon, 05 Apr 2021 01:48:57 +1200</pubDate>
       
-      <guid>https://le-bananafish.github.io/posts/maintenance-2021/</guid>
+      <guid>https://le-bananafish.github.io/posts/april-2021/</guid>
       <description>Maintenance and Learning There are so many things that I was gonna write. But I got lazy and I got annoyed at how little I understand how Hugo, the software I use to generate this site, works. I would love to be able to create Table(s) of Contents, or add templates for things like signatures, or dynamically alter the font of the theme, but I don&amp;rsquo;t know how to do any of that.</description>
     </item>
     
@@ -89,16 +101,6 @@ The city was filled endlessly with these streets. Wide-built, marked by a row of
     </item>
     
     <item>
-      <title>New Horizons</title>
-      <link>https://le-bananafish.github.io/posts/new-horizons/</link>
-      <pubDate>Thu, 12 Dec 2019 20:58:16 +1300</pubDate>
-      
-      <guid>https://le-bananafish.github.io/posts/new-horizons/</guid>
-      <description>New Horizons New Horizons is a multi-era worldbuilding project extrapolated from pertinent events in the current state of world affairs. It encompasses multiple genres and takes inspiration from notable books, media and video games like Blade Runner, Ghost in the Shell, Star Wars, Star Trek and Destiny.
-New Horizons starts off with the events of the Third World War, the culmination of two centuries of political irresolution. It resulted in a drastic shift in global power, immense loss of life and massive ecological disaster.</description>
-    </item>
-    
-    <item>
       <title>New Site Who This</title>
       <link>https://le-bananafish.github.io/posts/new-site-who-this/</link>
       <pubDate>Tue, 22 May 2018 21:37:43 +1200</pubDate>
@@ -117,7 +119,7 @@ So, at one point in time at some point in time last year (2017) or so, I read so
       <pubDate>Tue, 22 May 2018 16:21:07 +1200</pubDate>
       
       <guid>https://le-bananafish.github.io/404/</guid>
-      <description>Oops, do you need a map for the way home? Here you go.</description>
+      <description>Can&amp;rsquo;t find the way home? Here you go.</description>
     </item>
     
   </channel>

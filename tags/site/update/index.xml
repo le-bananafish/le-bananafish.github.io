@@ -7,6 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://le-bananafish.github.io/tags/site/update/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>November 2021</title>
+      <link>https://le-bananafish.github.io/posts/november-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 18:55:05 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/posts/november-2021/</guid>
+      <description>Preamble Isn&amp;rsquo;t ironic when you&amp;rsquo;re busy, you yearn for free time, but when you have lots of free time, you&amp;rsquo;re bored out of your mind?
+No, just me?
+November Update So, you may have noticed that my last post was in July; before that, the last post was in April. I managed to write enough to scrape by for the first four months.
+It&amp;rsquo;s been a long year and I&amp;rsquo;ve forgotten most things.</description>
+    </item>
+    
+    <item>
       <title>July 2021</title>
       <link>https://le-bananafish.github.io/posts/july-2021/</link>
       <pubDate>Fri, 30 Jul 2021 02:27:39 +1200</pubDate>
@@ -18,11 +30,11 @@ However, what&amp;rsquo;s not valid is using it not to work on my &amp;ldquo;pro
     </item>
     
     <item>
-      <title>Maintenance, 2021</title>
-      <link>https://le-bananafish.github.io/posts/maintenance-2021/</link>
+      <title>April 2021</title>
+      <link>https://le-bananafish.github.io/posts/april-2021/</link>
       <pubDate>Mon, 05 Apr 2021 01:48:57 +1200</pubDate>
       
-      <guid>https://le-bananafish.github.io/posts/maintenance-2021/</guid>
+      <guid>https://le-bananafish.github.io/posts/april-2021/</guid>
       <description>Maintenance and Learning There are so many things that I was gonna write. But I got lazy and I got annoyed at how little I understand how Hugo, the software I use to generate this site, works. I would love to be able to create Table(s) of Contents, or add templates for things like signatures, or dynamically alter the font of the theme, but I don&amp;rsquo;t know how to do any of that.</description>
     </item>
     
