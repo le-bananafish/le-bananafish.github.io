@@ -6,49 +6,22 @@
     <description>Recent content in Tags on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Aug 2022 13:17:57 +1200</lastBuildDate><atom:link href="https://le-bananafish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>project-reflections</title>
-      <link>https://le-bananafish.github.io/tags/project-reflections/</link>
-      <pubDate>Thu, 04 Aug 2022 13:17:57 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/project-reflections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reflections</title>
-      <link>https://le-bananafish.github.io/tags/reflections/</link>
-      <pubDate>Thu, 04 Aug 2022 13:17:57 +1200</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/reflections/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 16 Jan 2023 00:41:43 +1300</lastBuildDate><atom:link href="https://le-bananafish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>general</title>
       <link>https://le-bananafish.github.io/tags/general/</link>
-      <pubDate>Sat, 29 Jan 2022 02:25:16 +1300</pubDate>
+      <pubDate>Mon, 16 Jan 2023 00:41:43 +1300</pubDate>
       
       <guid>https://le-bananafish.github.io/tags/general/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>projects</title>
-      <link>https://le-bananafish.github.io/tags/projects/</link>
-      <pubDate>Sat, 29 Jan 2022 02:25:16 +1300</pubDate>
+      <title>reflections</title>
+      <link>https://le-bananafish.github.io/tags/reflections/</link>
+      <pubDate>Mon, 16 Jan 2023 00:41:43 +1300</pubDate>
       
-      <guid>https://le-bananafish.github.io/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rant-and-ramble</title>
-      <link>https://le-bananafish.github.io/tags/rant-and-ramble/</link>
-      <pubDate>Sat, 29 Jan 2022 02:25:16 +1300</pubDate>
-      
-      <guid>https://le-bananafish.github.io/tags/rant-and-ramble/</guid>
+      <guid>https://le-bananafish.github.io/tags/reflections/</guid>
       <description></description>
     </item>
     
@@ -71,11 +44,20 @@
     </item>
     
     <item>
-      <title>society</title>
-      <link>https://le-bananafish.github.io/tags/society/</link>
-      <pubDate>Wed, 17 Mar 2021 12:31:50 +1300</pubDate>
+      <title>rant-and-ramble</title>
+      <link>https://le-bananafish.github.io/tags/rant-and-ramble/</link>
+      <pubDate>Mon, 05 Apr 2021 01:48:57 +1200</pubDate>
       
-      <guid>https://le-bananafish.github.io/tags/society/</guid>
+      <guid>https://le-bananafish.github.io/tags/rant-and-ramble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://le-bananafish.github.io/tags/projects/</link>
+      <pubDate>Fri, 22 Jan 2021 13:11:46 +1300</pubDate>
+      
+      <guid>https://le-bananafish.github.io/tags/projects/</guid>
       <description></description>
     </item>
     
