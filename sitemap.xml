@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://le-bananafish.github.io/</loc>
+    <lastmod>2024-02-13T04:31:48+13:00</lastmod>
+  </url><url>
+    <loc>https://le-bananafish.github.io/posts/psa-february-2024/</loc>
+    <lastmod>2024-02-13T04:31:48+13:00</lastmod>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/2023/</loc>
     <lastmod>2023-01-16T00:41:43+13:00</lastmod>
   </url><url>
-    <loc>https://le-bananafish.github.io/</loc>
+    <loc>https://le-bananafish.github.io/tags/general/</loc>
     <lastmod>2023-01-16T00:41:43+13:00</lastmod>
   </url><url>
-    <loc>https://le-bananafish.github.io/tags/general/</loc>
+    <loc>https://le-bananafish.github.io/tags/new-year-thoughts/</loc>
     <lastmod>2023-01-16T00:41:43+13:00</lastmod>
   </url><url>
     <loc>https://le-bananafish.github.io/tags/reflections/</loc>
@@ -17,13 +23,13 @@
     <loc>https://le-bananafish.github.io/tags/</loc>
     <lastmod>2023-01-16T00:41:43+13:00</lastmod>
   </url><url>
+    <loc>https://le-bananafish.github.io/tags/year-in-review/</loc>
+    <lastmod>2023-01-16T00:41:43+13:00</lastmod>
+  </url><url>
     <loc>https://le-bananafish.github.io/posts/reflections-introduction/</loc>
     <lastmod>2022-08-04T13:17:57+12:00</lastmod>
   </url><url>
     <loc>https://le-bananafish.github.io/posts/2021-in-review-hopes-for-2022/</loc>
-    <lastmod>2022-01-29T02:25:16+13:00</lastmod>
-  </url><url>
-    <loc>https://le-bananafish.github.io/tags/review/</loc>
     <lastmod>2022-01-29T02:25:16+13:00</lastmod>
   </url><url>
     <loc>https://le-bananafish.github.io/tags/writing/</loc>
@@ -62,6 +68,9 @@
     <loc>https://le-bananafish.github.io/posts/social-justice/</loc>
     <lastmod>2019-12-12T23:06:40+13:00</lastmod>
   </url><url>
+    <loc>https://le-bananafish.github.io/tags/archive/</loc>
+    <lastmod>2019-12-12T23:06:40+13:00</lastmod>
+  </url><url>
     <loc>https://le-bananafish.github.io/tags/stories/</loc>
     <lastmod>2019-12-12T23:06:40+13:00</lastmod>
   </url><url>
@@ -76,6 +85,8 @@
   </url><url>
     <loc>https://le-bananafish.github.io/posts/</loc>
     <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+  </url><url>
+    <loc>https://le-bananafish.github.io/extras/</loc>
   </url><url>
     <loc>https://le-bananafish.github.io/categories/</loc>
   </url><url>
