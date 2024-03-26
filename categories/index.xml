@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on bananafish</title>
+    <title>categories on bananafish</title>
     <link>https://le-bananafish.github.io/categories/</link>
-    <description>Recent content in Categories on bananafish</description>
+    <description>Recent content in categories on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-NZ</language>
     <atom:link href="https://le-bananafish.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
