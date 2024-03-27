@@ -6,8 +6,15 @@
     <description>Recent content in rant-and-ramble on bananafish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-NZ</language>
-    <lastBuildDate>Mon, 05 Apr 2021 01:48:57 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 01:59:24 +1300</lastBuildDate>
     <atom:link href="https://le-bananafish.github.io/tags/rant-and-ramble/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>March 2024</title>
+      <link>https://le-bananafish.github.io/posts/march-2024/</link>
+      <pubDate>Tue, 26 Mar 2024 01:59:24 +1300</pubDate>
+      <guid>https://le-bananafish.github.io/posts/march-2024/</guid>
+      <description>Since someone recently accused me of &amp;ldquo;lying to my followers/subscribers&amp;rdquo; for not having written a post since the PSA in February1, I&amp;rsquo;d like to set the record straight and confirm that I am indeed a blatant liar;&#xA;I have been lying about writing in general since this site has been up.&#xA;However, I haven&amp;rsquo;t been twiddling my thumbs and doing nothing.&#xA;For the last month, I have been procrastinating writing by doing the other thing I said I was going to for the last two years: updating my site&amp;rsquo;s theme, customising some styling, and learning how Hugo works so I can customise its structure and elements.</description>
+    </item>
     <item>
       <title>April 2021</title>
       <link>https://le-bananafish.github.io/posts/april-2021/</link>
