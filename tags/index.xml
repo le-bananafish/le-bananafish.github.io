@@ -4,15 +4,22 @@
     <title>Tags on bananafish</title>
     <link>https://le-bananafish.github.io/tags/</link>
     <description>Recent content in Tags on bananafish</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-NZ</language>
-    <lastBuildDate>Tue, 26 Mar 2024 01:59:24 +1300</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 05:39:06 +1300</lastBuildDate>
     <atom:link href="https://le-bananafish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>rant-and-ramble</title>
-      <link>https://le-bananafish.github.io/tags/rant-and-ramble/</link>
+      <title>updates</title>
+      <link>https://le-bananafish.github.io/tags/updates/</link>
+      <pubDate>Wed, 12 Mar 2025 05:39:06 +1300</pubDate>
+      <guid>https://le-bananafish.github.io/tags/updates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ramblings</title>
+      <link>https://le-bananafish.github.io/tags/ramblings/</link>
       <pubDate>Tue, 26 Mar 2024 01:59:24 +1300</pubDate>
-      <guid>https://le-bananafish.github.io/tags/rant-and-ramble/</guid>
+      <guid>https://le-bananafish.github.io/tags/ramblings/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +27,6 @@
       <link>https://le-bananafish.github.io/tags/site/update/</link>
       <pubDate>Tue, 26 Mar 2024 01:59:24 +1300</pubDate>
       <guid>https://le-bananafish.github.io/tags/site/update/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>general</title>
-      <link>https://le-bananafish.github.io/tags/general/</link>
-      <pubDate>Thu, 21 Dec 2023 02:20:42 +1300</pubDate>
-      <guid>https://le-bananafish.github.io/tags/general/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +48,6 @@
       <link>https://le-bananafish.github.io/tags/new-year-thoughts/</link>
       <pubDate>Mon, 16 Jan 2023 00:41:43 +1300</pubDate>
       <guid>https://le-bananafish.github.io/tags/new-year-thoughts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>writing</title>
-      <link>https://le-bananafish.github.io/tags/writing/</link>
-      <pubDate>Sat, 29 Jan 2022 02:25:16 +1300</pubDate>
-      <guid>https://le-bananafish.github.io/tags/writing/</guid>
       <description></description>
     </item>
     <item>

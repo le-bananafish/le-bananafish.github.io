@@ -4,7 +4,7 @@
     <title>site/update on bananafish</title>
     <link>https://le-bananafish.github.io/tags/site/update/</link>
     <description>Recent content in site/update on bananafish</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-NZ</language>
     <lastBuildDate>Tue, 26 Mar 2024 01:59:24 +1300</lastBuildDate>
     <atom:link href="https://le-bananafish.github.io/tags/site/update/index.xml" rel="self" type="application/rss+xml" />
@@ -13,56 +13,35 @@
       <link>https://le-bananafish.github.io/posts/march-2024/</link>
       <pubDate>Tue, 26 Mar 2024 01:59:24 +1300</pubDate>
       <guid>https://le-bananafish.github.io/posts/march-2024/</guid>
-      <description>Since someone recently accused me of &amp;ldquo;lying to my followers/subscribers&amp;rdquo; for not having written a post since the PSA in February1, I&amp;rsquo;d like to set the record straight and confirm that I am indeed a blatant liar;&#xA;I have been lying about writing in general since this site has been up.&#xA;However, I haven&amp;rsquo;t been twiddling my thumbs and doing nothing.&#xA;For the last month, I have been procrastinating writing by doing the other thing I said I was going to for the last two years: updating my site&amp;rsquo;s theme, customising some styling, and learning how Hugo works so I can customise its structure and elements.</description>
-    </item>
-    <item>
-      <title>PSA: dated Feb. 2024</title>
-      <link>https://le-bananafish.github.io/posts/psa-february-2024/</link>
-      <pubDate>Tue, 13 Feb 2024 04:31:48 +1300</pubDate>
-      <guid>https://le-bananafish.github.io/posts/psa-february-2024/</guid>
-      <description>This is a public service announcement from the administrator:&#xA;You can probably tell from the lack of posts that I didn&amp;rsquo;t write any posts last year.1&#xA;Don&amp;rsquo;t worry, there will be posts this year.&#xA;In fact, I&amp;rsquo;m working on a few posts right now, including 2023 in Review which I meant to post in December, or in January, but now that I&amp;rsquo;m reading over it again, it&amp;rsquo;s written pretty poorly.</description>
-    </item>
-    <item>
-      <title>2021 in Review // Hopes for 2022</title>
-      <link>https://le-bananafish.github.io/posts/2021-in-review-hopes-for-2022/</link>
-      <pubDate>Sat, 29 Jan 2022 02:25:16 +1300</pubDate>
-      <guid>https://le-bananafish.github.io/posts/2021-in-review-hopes-for-2022/</guid>
-      <description>What better way to start off the new year than to review last year? - Sebastian Lau, actually 2022 (actually 2021)&#xA;Part 1: 2021 in Review&amp;nbsp;¶ Year of Stanisław Lem&amp;nbsp;¶ The year of 2021 is declared the Year of Stanisław Lem in Poland, according to the November 27, 2020 resolution of Sejm (the lower house of the parliament of Poland). [&amp;hellip;] 2021 is the year of the 100th Stanisław Lem anniversary.</description>
+      <description>&lt;p&gt;Since &lt;span class=&#34;small-caps&#34;&gt;someone&lt;/span&gt; recently accused me of &amp;ldquo;&lt;em&gt;lying to my followers/subscribers&lt;/em&gt;&amp;rdquo; for not having written a post since the PSA in February&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, I&amp;rsquo;d like to set the record straight and confirm that I am indeed a blatant liar;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;I have been lying about writing in general since this site has been up.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;However, I haven&amp;rsquo;t been twiddling my thumbs and doing nothing.&lt;/p&gt;&#xA;&lt;p&gt;For the last month, I have been procrastinating writing by doing the other thing I said I was going to for the last two years: &lt;strong&gt;updating my site&amp;rsquo;s theme&lt;/strong&gt;, customising some styling, and learning how Hugo works so I can customise its structure and elements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>November 2021</title>
       <link>https://le-bananafish.github.io/posts/november-2021/</link>
       <pubDate>Mon, 22 Nov 2021 18:55:05 +1300</pubDate>
       <guid>https://le-bananafish.github.io/posts/november-2021/</guid>
-      <description>Preamble&amp;nbsp;¶ Isn&amp;rsquo;t ironic when you&amp;rsquo;re busy, you yearn for free time, but when you have lots of free time, you&amp;rsquo;re bored out of your mind?&#xA;No, just me?&#xA;November Update&amp;nbsp;¶ So, you may have noticed that my last post was in July; before that, the last post was in April. I managed to write enough to scrape by for the first four months.&#xA;It&amp;rsquo;s been a long year and I&amp;rsquo;ve forgotten most things.</description>
+      <description>&lt;h2 id=&#34;preamble&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#preamble&#34;&gt;Preamble&lt;span class=&#34;pilcrow&#34;&gt;&amp;nbsp;¶&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Isn&amp;rsquo;t ironic when you&amp;rsquo;re busy, you yearn for free time, but when you have lots of free time, you&amp;rsquo;re bored out of your mind?&lt;/p&gt;&#xA;&lt;p&gt;No, just me?&lt;/p&gt;&#xA;&#xA;&lt;h2 id=&#34;november-update&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#november-update&#34;&gt;November Update&lt;span class=&#34;pilcrow&#34;&gt;&amp;nbsp;¶&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;So, you may have noticed that my last post was in July; before that, the last post was in April. I managed to write enough to scrape by &lt;em&gt;for the first four months&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been a long year and I&amp;rsquo;ve forgotten most things. Like when we went into lockdown. again. The gap between July and now overlapped with intersem break where I got triggered about something, likely related to uni *ahem* COMPSCI and&amp;hellip; two weeks later, semester 2 started.&lt;/p&gt;</description>
     </item>
     <item>
       <title>July 2021</title>
       <link>https://le-bananafish.github.io/posts/july-2021/</link>
       <pubDate>Fri, 30 Jul 2021 02:27:39 +1200</pubDate>
       <guid>https://le-bananafish.github.io/posts/july-2021/</guid>
-      <description>The last post I made was in April.&#xA;I&amp;rsquo;m going to make an excuse; it&amp;rsquo;s a valid excuse. When May and June came around, so did all the assignments and coursework, and I was simply swamped by it all.&#xA;However, what&amp;rsquo;s not valid is using it not to work on my &amp;ldquo;projects&amp;rdquo;. They haven&amp;rsquo;t seen any progress in months (or years). For that reason, I&amp;rsquo;m going to stop pretending. Though ideas for New Horizons and Indigo are always brewing in my head, nothing&amp;rsquo;s happening.</description>
+      <description>&lt;p&gt;The last post I made was in April.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m going to make an excuse; &lt;strong&gt;it&amp;rsquo;s a valid excuse&lt;/strong&gt;. When May and June came around, so did all the assignments and coursework, and I was simply swamped by it all.&lt;/p&gt;&#xA;&lt;p&gt;However, what&amp;rsquo;s &lt;strong&gt;not&lt;/strong&gt; valid is using it not to work on my &amp;ldquo;projects&amp;rdquo;. They haven&amp;rsquo;t seen any progress in months (or years). For that reason, I&amp;rsquo;m going to stop pretending. Though ideas for &lt;em&gt;&lt;u&gt;New Horizons&lt;/u&gt;&lt;/em&gt; and &lt;em&gt;&lt;u&gt;Indigo&lt;/em&gt;&lt;/u&gt; are always brewing in my head, &lt;strong&gt;nothing&amp;rsquo;s happening&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>April 2021</title>
       <link>https://le-bananafish.github.io/posts/april-2021/</link>
       <pubDate>Mon, 05 Apr 2021 01:48:57 +1200</pubDate>
       <guid>https://le-bananafish.github.io/posts/april-2021/</guid>
-      <description>Maintenance and Learning&amp;nbsp;¶ There are so many things that I was gonna write. But I got lazy and I got annoyed at how little I understand how Hugo, the software I use to generate this site, works. I would love to be able to create Table(s) of Contents, or add templates for things like signatures, or dynamically alter the font of the theme, but I don&amp;rsquo;t know how to do any of that.</description>
-    </item>
-    <item>
-      <title>Change of Schedule</title>
-      <link>https://le-bananafish.github.io/posts/change-of-schedule/</link>
-      <pubDate>Fri, 29 Jan 2021 16:08:21 +1300</pubDate>
-      <guid>https://le-bananafish.github.io/posts/change-of-schedule/</guid>
-      <description>No more weekly posts&amp;nbsp;¶ So I lied. Two weeks into my resolution and I&amp;rsquo;ve failed. The unfortunate reality is that some things take time to get right and sticking to a once per week schedule is too hard without sacrificing some depth and quality.&#xA;From this moment forth, the &amp;ldquo;on-schedule&amp;rdquo; post will be once every two weeks and all other timelines (i.e. posts with no timeline) will come whenever they are ready.</description>
+      <description>&lt;h1 id=&#34;maintenance-and-learning&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#maintenance-and-learning&#34;&gt;Maintenance and Learning&lt;span class=&#34;pilcrow&#34;&gt;&amp;nbsp;¶&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;There are so many things that &lt;em&gt;I was gonna write&lt;/em&gt;. But I got lazy &lt;strong&gt;and&lt;/strong&gt; I got annoyed at how little I understand how Hugo, the software I use to generate this site, works. I would love to be able to create Table(s) of Contents, or add templates for things like signatures, or dynamically alter the font of the theme, but &lt;u&gt;I don&amp;rsquo;t know how to do any of that&lt;/u&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Site Who This</title>
       <link>https://le-bananafish.github.io/posts/new-site-who-this/</link>
       <pubDate>Tue, 22 May 2018 21:37:43 +1200</pubDate>
       <guid>https://le-bananafish.github.io/posts/new-site-who-this/</guid>
-      <description>Secret Hidden Level 1 Header&amp;nbsp;¶ This is my first post. Enjoy!&#xA;Part 1: Joke&amp;rsquo;s on you&amp;nbsp;¶ Joke&amp;rsquo;s on you, this isn&amp;rsquo;t my first rodeo with static site generators and as an experienced beginner level experimenter, I have a few complaints about static site generators.&#xA;I mean, why not have your first post be a complaint?&#xA;First, some history.&#xA;So, at one point in time at some point in time last year (2017) or so, I read somewhere that it was a great idea to showcase yourself by having a personal website as like a part-CV part experience point of reference.</description>
+      <description>&lt;h1 id=&#34;secret-hidden-level-1-header&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#secret-hidden-level-1-header&#34;&gt;Secret Hidden Level 1 Header&lt;span class=&#34;pilcrow&#34;&gt;&amp;nbsp;¶&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;This is my first post. Enjoy!&lt;/em&gt;&lt;/p&gt;&#xA;&#xA;&lt;h2 id=&#34;part-1-jokes-on-you&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#part-1-jokes-on-you&#34;&gt;Part 1: Joke&amp;rsquo;s on you&lt;span class=&#34;pilcrow&#34;&gt;&amp;nbsp;¶&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Joke&amp;rsquo;s on you, this isn&amp;rsquo;t my first rodeo with static site generators and as an experienced beginner level experimenter, I have a few complaints about static site generators.&lt;/p&gt;&#xA;&lt;p&gt;I mean, &lt;em&gt;why not&lt;/em&gt; have your first post be a complaint?&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;First&lt;/strong&gt;&lt;/em&gt;, some history.&lt;/p&gt;&#xA;&lt;p&gt;So, at one point in time at some point in time last year (2017) or so, I read somewhere that it was a great idea to showcase yourself by having a personal website as like a part-CV part experience point of reference.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
